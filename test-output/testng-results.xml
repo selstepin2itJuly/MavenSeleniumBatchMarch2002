@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32759" started-at="2020-03-28T15:03:01 EDT" finished-at="2020-03-28T15:03:34 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32759" started-at="2020-03-28T15:03:01 EDT" finished-at="2020-03-28T15:03:34 EDT">
+      <class name="testcases.TestDashboard">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.TestDashboard@711f39f9]" name="beforeClass" is-config="true" duration-ms="4538" started-at="2020-03-28T15:03:27 EDT" finished-at="2020-03-28T15:03:31 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TC003()[pri:0, instance:testcases.TestDashboard@711f39f9]" name="TC003" duration-ms="1624" started-at="2020-03-28T15:03:31 EDT" finished-at="2020-03-28T15:03:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003 -->
+        <test-method status="PASS" signature="TC004()[pri:0, instance:testcases.TestDashboard@711f39f9]" name="TC004" duration-ms="455" started-at="2020-03-28T15:03:33 EDT" finished-at="2020-03-28T15:03:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004 -->
+        <test-method status="PASS" signature="TC005()[pri:0, instance:testcases.TestDashboard@711f39f9]" name="TC005" duration-ms="167" started-at="2020-03-28T15:03:33 EDT" finished-at="2020-03-28T15:03:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.TestDashboard@711f39f9]" name="afterClass" is-config="true" duration-ms="705" started-at="2020-03-28T15:03:33 EDT" finished-at="2020-03-28T15:03:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testcases.TestDashboard -->
+      <class name="testcases.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.NewTest@3fd7a715]" name="beforeSuite" is-config="true" duration-ms="20" started-at="2020-03-28T15:03:01 EDT" finished-at="2020-03-28T15:03:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.NewTest@3fd7a715]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-03-28T15:03:01 EDT" finished-at="2020-03-28T15:03:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.NewTest@3fd7a715]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-03-28T15:03:01 EDT" finished-at="2020-03-28T15:03:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.NewTest@3fd7a715]" name="beforeMethod" is-config="true" duration-ms="6931" started-at="2020-03-28T15:03:01 EDT" finished-at="2020-03-28T15:03:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC001()[pri:0, instance:testcases.NewTest@3fd7a715]" name="TC001" duration-ms="1582" started-at="2020-03-28T15:03:08 EDT" finished-at="2020-03-28T15:03:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.NewTest@3fd7a715]" name="afterMethod" is-config="true" duration-ms="694" started-at="2020-03-28T15:03:10 EDT" finished-at="2020-03-28T15:03:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.NewTest@3fd7a715]" name="beforeMethod" is-config="true" duration-ms="4424" started-at="2020-03-28T15:03:11 EDT" finished-at="2020-03-28T15:03:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC002()[pri:0, instance:testcases.NewTest@3fd7a715]" name="TC002" duration-ms="10830" started-at="2020-03-28T15:03:15 EDT" finished-at="2020-03-28T15:03:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.NewTest@3fd7a715]" name="afterMethod" is-config="true" duration-ms="738" started-at="2020-03-28T15:03:26 EDT" finished-at="2020-03-28T15:03:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.NewTest@3fd7a715]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-03-28T15:03:27 EDT" finished-at="2020-03-28T15:03:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.NewTest@3fd7a715]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-03-28T15:03:34 EDT" finished-at="2020-03-28T15:03:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.NewTest@3fd7a715]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-03-28T15:03:34 EDT" finished-at="2020-03-28T15:03:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
