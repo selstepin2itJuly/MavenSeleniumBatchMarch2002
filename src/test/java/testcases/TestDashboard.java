@@ -43,6 +43,7 @@ public class TestDashboard {
 	  }
 	  
   }
+  //Test Case T005 To validate quick link
   @Test
   public void TC005() {
 	  String[] arr= {"Assign Leave", "Leave List","Timesheets"};
